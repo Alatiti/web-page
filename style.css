@@ -6,10 +6,10 @@
 p{
     width: 200px;
     height: 299px;
-    background-color: red;
+    background-color: blue;
 }
 .container{
     background-color: lightblue;
-    width: 300px;
+    width: 400px;
     height: 200px;
 }
